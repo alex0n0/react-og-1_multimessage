@@ -1,0 +1,10 @@
+
+@mixin font-weights {
+  @for $i from 1 through 9 {
+    .b-#{$i}00 {
+      font-weight: $i * 100;
+    }
+  }
+}
+
+@include font-weights;

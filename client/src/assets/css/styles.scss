@@ -1,0 +1,17 @@
+@import "./utilities/colors";
+
+:root {
+  --primary: #{$primary};
+  --primaryLight: #{$primaryLight};
+  --primaryDark: #{$primaryDark};
+
+  --secondary: #{$secondary};
+  --secondaryLight: #{$secondaryLight};
+  --secondaryDark: #{$secondaryDark};
+
+
+  --very-dark: #{$veryDark};
+}
+
+@import "./partials/backgrounds";
+@import "./partials/text";

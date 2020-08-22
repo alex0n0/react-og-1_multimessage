@@ -1,0 +1,11 @@
+.showcaseWindow {
+  min-height: 250px;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+.showcaseSMS {
+  &:last-of-type {
+    margin-bottom: 1.75rem !important;
+  }
+}
