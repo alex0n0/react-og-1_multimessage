@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/multimessage/static/css/main.fb3faf3a.chunk.css",
+    "main.js": "/multimessage/static/js/main.c72cd8d7.chunk.js",
+    "main.js.map": "/multimessage/static/js/main.c72cd8d7.chunk.js.map",
+    "runtime-main.js": "/multimessage/static/js/runtime-main.7629a806.js",
+    "runtime-main.js.map": "/multimessage/static/js/runtime-main.7629a806.js.map",
+    "static/js/2.ec45182f.chunk.js": "/multimessage/static/js/2.ec45182f.chunk.js",
+    "static/js/2.ec45182f.chunk.js.map": "/multimessage/static/js/2.ec45182f.chunk.js.map",
+    "index.html": "/multimessage/index.html",
+    "precache-manifest.b3be2d5dee626845353b205b4504bfdd.js": "/multimessage/precache-manifest.b3be2d5dee626845353b205b4504bfdd.js",
+    "service-worker.js": "/multimessage/service-worker.js",
+    "static/css/main.fb3faf3a.chunk.css.map": "/multimessage/static/css/main.fb3faf3a.chunk.css.map",
+    "static/js/2.ec45182f.chunk.js.LICENSE.txt": "/multimessage/static/js/2.ec45182f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7629a806.js",
+    "static/js/2.ec45182f.chunk.js",
+    "static/css/main.fb3faf3a.chunk.css",
+    "static/js/main.c72cd8d7.chunk.js"
+  ]
+}
