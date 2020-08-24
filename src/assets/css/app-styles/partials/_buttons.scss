@@ -1,0 +1,18 @@
+// @import "../utilities/colors";
+
+.btn-secondary {
+  background-color: var(--secondary) !important;
+  color: black !important;
+  &:hover {
+    background-color: var(--secondaryDark) !important;
+  }
+  &:active {
+    background-color: var(--secondaryDark) !important;
+  }
+  &:focus {
+    background-color: var(--secondaryDark) !important;
+  }
+  &:disabled {
+    background-color: var(--secondaryDark) !important;
+  }
+}
